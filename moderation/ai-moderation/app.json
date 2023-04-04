@@ -1,0 +1,18 @@
+{
+    "id": "479ed89b-8e97-4c74-bd16-d01e4bba8762",
+    "version": "0.0.1",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Abel",
+        "homepage": "abel",
+        "support": "abel"
+    },
+    "name": "AI Moderation",
+    "nameSlug": "ai-moderation",
+    "classFile": "AiModerationApp.ts",
+    "description": "Moderation",
+    "implements": [
+        "IPreMessageSentPrevent"
+    ]
+}
